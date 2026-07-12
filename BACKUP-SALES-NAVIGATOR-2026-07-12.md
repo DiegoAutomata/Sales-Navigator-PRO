@@ -121,3 +121,21 @@ Para cada oportunidad conservar/registrar manualmente:
 Empresa adecuada + dolor probable + decisor correcto + actividad reciente + angulo personalizado = oportunidad real.
 
 No enviar pitch en una solicitud de conexion ni automatizar mensajes masivos.
+
+
+## Verificacion directa en Sales Navigator (2026-07-12)
+
+Se verifico visualmente, antes del vencimiento, que el perfil conserva **43 posibles clientes guardados** en total.
+
+Listas visibles y conteos verificados:
+
+- `LezrAI | Decisores | Negocios Online Hispanohablantes | Activos`: 7 posibles clientes.
+- `LezrAI | Decisores | Agencias Hispanohablantes | Activos`: 5 posibles clientes.
+- `LezrAI | Decisores | Agencias USA | Activos`: 1 posible cliente.
+- `LezrAI | Decisores | Negocios Online USA | Activos`: 1 posible cliente.
+- Lista generada por el sistema: contactos y mensajes InMail aceptados recientemente: 8.
+- Lista generada por el sistema: nuevos ejecutivos en las cuentas guardadas: 3.
+
+La vista de todos los posibles clientes confirmo tambien los perfiles ya documentados: Caterina Calvo Cabiati, Carlos Z., Santiago Perez, Angelo Flores Garcia-Huidobro, Joel Tinoco, Ernesto Peirat Burgues y Julio Soto.
+
+Este dato confirma que todavia existen prospectos adicionales dentro del total de 43 que no estaban individualizados en el playbook. Antes del vencimiento, respaldar de forma manual sus nombres, URLs y notas siguiendo la maniobra de emergencia de este documento.
