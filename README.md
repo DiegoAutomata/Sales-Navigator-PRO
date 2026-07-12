@@ -901,3 +901,8 @@ Formula:
 `Empresa adecuada + dolor probable + decisor correcto + actividad reciente + angulo personalizado = oportunidad real`
 
 Si falta cualquiera de esos elementos, baja la prioridad.
+
+
+## 20. Respaldo Por Vencimiento De Suscripcion
+
+El respaldo de emergencia de busquedas, cuentas y decisores documentados antes del vencimiento esta en [BACKUP-SALES-NAVIGATOR-2026-07-12.md](BACKUP-SALES-NAVIGATOR-2026-07-12.md). Antes de que Sales Navigator venza, completar manualmente URLs, notas y estados de los prospectos prioritarios que aun solo existan dentro de LinkedIn.
